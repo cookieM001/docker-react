@@ -1,3 +1,4 @@
+# format = .travis.yml
 language: generic
 sudo: required
 services: 
